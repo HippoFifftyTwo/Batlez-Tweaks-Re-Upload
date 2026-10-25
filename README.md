@@ -1,6 +1,9 @@
 Useage : 
 just open up the file as admin and go straight for it. 
 I recomend you make a restore point as prompted. (dont wanna brick your pc/laptop now)
+Features:
+
+
 Performance & Gaming
 Custom Performance Power Plans
 Memory Optimisation
